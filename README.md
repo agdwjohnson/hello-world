@@ -1,2 +1,4 @@
 # hello-world
-A sample repository
+David Johnson
+Data Warehouse Manager
+American Greetings
